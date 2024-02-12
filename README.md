@@ -1,3 +1,4 @@
 # SweetLife
-We bake bake memories.\n
+We bake bake memories.
+
 https://adarshhtiwarii.github.io/SweetLife/
